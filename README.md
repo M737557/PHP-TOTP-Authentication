@@ -1,6 +1,15 @@
 # PHP-TOTP-Authentication
 Multilanguage English/Dutch TOTP login (Time-based one-time password)
 
+<img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png">
+<br>
+
+
+Enjoy this software? PayPal me at: matijn.van.der.schans@gmail.com
+<br>
+Need help or features, contact me.
+<hr>
+
 <img src="https://i.postimg.cc/Y0kzGjDf/login.png">
 <br>
 
