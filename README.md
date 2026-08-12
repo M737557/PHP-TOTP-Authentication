@@ -1,11 +1,15 @@
 # PHP-TOTP-Authentication and Admin page for users accounts (totp setup/login password) - MYSQL.
 
 Multilanguage English/Dutch TOTP login (Time-based one-time password)
-<br><br>
+<br>
 <img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png">
 <br>
-Enjoy this software? PayPal me at: matijn.van.der.schans@gmail.com
+
+
+Enjoy this software? PayPal me at: matijn.van.der.schans@gmail.com or use <a href="https://paypal.me/matijnvanderschans">Paypal Me Link</a>
 <br>
+Need help or features, contact me.
+<hr>
 Need help or features, contact me.
 <hr>
 
