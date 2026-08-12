@@ -1,4 +1,5 @@
-# PHP-TOTP-Authentication
+# PHP-TOTP-Authentication and Admin page for users accounts (totp setup/login password) - MYSQL.
+
 Multilanguage English/Dutch TOTP login (Time-based one-time password)
 <br><br>
 <img src="https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png">
