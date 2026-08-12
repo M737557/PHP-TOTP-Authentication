@@ -10,8 +10,7 @@ Enjoy this software? PayPal me at: matijn.van.der.schans@gmail.com or use <a hre
 <br>
 Need help or features, contact me.
 <hr>
-Need help or features, contact me.
-<hr>
+
 
 <img src="https://i.postimg.cc/Y0kzGjDf/login.png">
 <br>
