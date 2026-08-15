@@ -4,7 +4,7 @@ Multilanguage English/Dutch TOTP login (Time-based one-time password)
 <br><br>
 
 
-<img src="https://i.postimg.cc/Y0kzGjDf/login.png">
+<img src="https://i.ibb.co/8L2wH3cp/login.png">
 <br>
 <img src="https://i.postimg.cc/V5Q4FDNk/totp.png">
 <br>
