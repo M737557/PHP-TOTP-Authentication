@@ -4,13 +4,14 @@ Multilanguage English/Dutch TOTP login (Time-based one-time password)
 <br><br>
 
 
+<br>
+<hr>
 <img src="https://i.ibb.co/8L2wH3cp/login.png">
 <br>
 <img src="https://i.postimg.cc/V5Q4FDNk/totp.png">
 <br>
 <img src="https://i.ibb.co/dwvrJ5y9/adminpanel.png">
-<br>
-<hr>
+Setup<br>
 
 
  20+ Languages Supported
